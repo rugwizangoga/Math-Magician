@@ -54,7 +54,7 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://rugwizangoga.github.io/Math-Magician/)
+- [Live Demo Link](https://calculator-app-u1kn.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -123,6 +123,14 @@ IRADUKUNDA Pacific Rugwizangoga
 
 - GitHub: [@githubhandle](https://github.com/rugwizangoga)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
+
+👤 **Author2**
+
+
+Tonny Tei
+
+- GitHub: [@githubhandle](https://github.com/teitonny)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/tonnytei)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
