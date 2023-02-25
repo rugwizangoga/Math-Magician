@@ -17,3 +17,10 @@ it('Calculator user interaction', () => {
   const Element = screen.getByText('Let\'s do some math!');
   expect(Element).toBeInTheDocument();
 });
+
+test('clicking button 7 should display the output', () => {
+  const { getByTestId } = render(<Calculator />);
+  const button7 = getByTestId('seven');
+
+  expect(button7.textContent).toBe('7');
+});
