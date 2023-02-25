@@ -124,6 +124,14 @@ IRADUKUNDA Pacific Rugwizangoga
 - GitHub: [@githubhandle](https://github.com/rugwizangoga)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/iradukunda-pacific-rugwizangoga)
 
+👤 **Author2**
+
+
+Tonny Tei
+
+- GitHub: [@githubhandle](https://github.com/teitonny)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/tonnytei)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
