@@ -16,7 +16,7 @@ const Calculator = () => {
       </h2>
       <div className="calc">
         <ul className="calclines">
-          <li className="firstrow">
+          <li className="firstrow" data-testid="display">
             {state.total}
             {state.operation}
             {state.next}
@@ -28,7 +28,7 @@ const Calculator = () => {
             <button type="button" className="number end" onClick={handleClick}>&divide;</button>
           </li>
           <li className="row">
-            <button type="button" className="number" onClick={handleClick}>7</button>
+            <button type="button" className="number" data-testid="seven" onClick={handleClick}>7</button>
             <button type="button" className="number" onClick={handleClick}>8</button>
             <button type="button" className="number" onClick={handleClick}>9</button>
             <button type="button" className="number end" onClick={handleClick}>x</button>
