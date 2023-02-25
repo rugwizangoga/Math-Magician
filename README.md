@@ -54,7 +54,7 @@ Math magicians is a website for all fans of mathematics. It is a Single Page App
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://rugwizangoga.github.io/Math-Magician/)
+- [Live Demo Link](https://calculator-app-u1kn.onrender.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
