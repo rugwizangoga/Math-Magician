@@ -54,4 +54,3 @@ describe('Test the operate function', () => {
     expect(result).toBe('Can\'t find modulo as can\'t divide by 0.');
   });
 });
-
