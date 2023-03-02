@@ -138,7 +138,7 @@ Tonny Tei
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **[Mobile Version]**
-- **[Update booklist]**
+- **[History Button]**
 
 <!-- CONTRIBUTING -->
 
